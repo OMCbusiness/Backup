@@ -18,5 +18,5 @@ elif which apt-get >/dev/null 2>&1; then
 fi
 
 curl -s ${acronis_repo}/${acronis_file} -o /tmp/${acronis_file}
-bash /tmp/${acronis_file} --auto --token=662B-414E-4E56
+bash /tmp/${acronis_file} --auto --token=BA66-C1AC-4C31
 rm /tmp/${acronis_file}
